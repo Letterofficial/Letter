@@ -1,5 +1,5 @@
 # Letter
-The official websites code of Letter. Please help us expand the code.
+The official app codes of Letter. You can check all Letter app codes here. 
 
 # Introduction
 Letter has an app. It will have many introductions. 
